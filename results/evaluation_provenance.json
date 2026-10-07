@@ -1,0 +1,5 @@
+{
+  "original_results_backup": "evaluation_backups/20261007T091037853170Z",
+  "full_evaluation_after_training": true,
+  "note": "Original baselines preceded training on the reduced eval set. Full evaluation reuses trained adapters and unchanged prompts/data. Do not claim the full baseline was measured before training."
+}
